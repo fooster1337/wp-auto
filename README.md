@@ -2,7 +2,7 @@
 Remake version of <a href="https://github.com/fooster1337/wp-login-checker">https://github.com/fooster1337/wp-login-checker</a><br>
 In this version we added more features like auto upload themes, plugin (with backdoor inside) and auto install wp file manager
 
-![Wp-Auto](https://github.com/fooster1337/wp-auto/assets/89574993/c3549c88-c572-440a-b9ec-1a9c5d77ed7b)
+![Wp-Auto](https://raw.githubusercontent.com/fooster1337/wp-auto/main/image.png)
 
 # Version 1.1 Update
 ```
